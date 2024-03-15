@@ -27,9 +27,9 @@ You should put datasets into relevant directory.
 
 ``` python  
 
-conda create -n hetsgg python=3.7.7
+conda create -n edgesgg python=3.7.7
 
-conda activate hetsgg
+conda activate edgesgg
 
 conda install -y ipython scipy h5py
 
