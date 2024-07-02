@@ -1,5 +1,5 @@
 # EdgeSGG-pytorch
-## ECCV 2024 Semantic Scene Graph Generation Based on an Edge Dual Scene Graph and Message Passing Neural Network
+## Semantic Scene Graph Generation Based on an Edge Dual Scene Graph and Message Passing Neural Network
 
 ## Dataset  
 
